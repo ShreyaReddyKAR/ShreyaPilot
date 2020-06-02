@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>DataObj</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>DataObjs</value>
+    </caseValues>
+    <fields>
+        <label><!-- Ap28 --></label>
+        <name>Ap28__c</name>
+    </fields>
+    <fields>
+        <label><!-- May13th --></label>
+        <name>May13th__c</name>
+    </fields>
+    <fields>
+        <label><!-- ObjMail --></label>
+        <name>ObjMail__c</name>
+    </fields>
+    <fields>
+        <label><!-- exists --></label>
+        <name>exists__c</name>
+    </fields>
+    <fields>
+        <label><!-- field1 --></label>
+        <name>field1__c</name>
+    </fields>
+    <startsWith>Consonant</startsWith>
+    <validationRules>
+        <errorMessage><!-- Say hello --></errorMessage>
+        <name>CheckForDate</name>
+    </validationRules>
+</CustomObjectTranslation>
